@@ -1,0 +1,245 @@
+# depslib dependency file v1.0
+1683095984 source:c:\users\hassan\desktop\payment\application\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"app.h"
+
+1683419121 c:\users\hassan\desktop\payment\application\app.h
+	"../Server/server.h"
+
+1683419141 c:\users\hassan\desktop\payment\server\server.h
+	"../Terminal/terminal.h"
+
+1683419155 c:\users\hassan\desktop\payment\terminal\terminal.h
+	"../Card/card.h"
+
+1682789369 c:\users\hassan\desktop\payment\card\card.h
+
+1682849463 source:c:\users\hassan\desktop\payment\card\card.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"card.h"
+
+1683419066 source:c:\users\hassan\desktop\payment\main.c
+	"Application/app.h"
+
+1683419255 source:c:\users\hassan\desktop\payment\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"server.h"
+
+1683095808 source:c:\users\hassan\desktop\payment\terminal\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"terminal.h"
+
+1685456610 source:c:\users\hassan\desktop\embedded system\payment\application\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"app.h"
+
+1685458729 c:\users\hassan\desktop\embedded system\payment\application\app.h
+	"../Server/server.h"
+
+1683659647 c:\users\hassan\desktop\embedded system\payment\server\server.h
+	"../Terminal/terminal.h"
+
+1683659680 c:\users\hassan\desktop\embedded system\payment\terminal\terminal.h
+	"../Card/card.h"
+
+1683658466 c:\users\hassan\desktop\embedded system\payment\card\card.h
+	"../Utilities/std_types.h"
+
+1683659759 c:\users\hassan\desktop\embedded system\payment\utilities\std_types.h
+
+1685459215 source:c:\users\hassan\desktop\embedded system\payment\card\card.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"card.h"
+
+1684308769 source:c:\users\hassan\desktop\embedded system\payment\main.c
+	"Application/app.h"
+
+1684308705 source:c:\users\hassan\desktop\embedded system\payment\terminal\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"terminal.h"
+
+1685458153 source:c:\users\hassan\desktop\embedded system\payment\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"server.h"
+
+1684308769 source:e:\courses\professional embedded systems\projects\payment\main.c
+	"Application/app.h"
+
+1685458729 e:\courses\professional embedded systems\projects\payment\application\app.h
+	"../Server/server.h"
+
+1689759761 e:\courses\professional embedded systems\projects\payment\server\server.h
+	"../Terminal/terminal.h"
+
+1689759745 e:\courses\professional embedded systems\projects\payment\terminal\terminal.h
+	"../Card/card.h"
+
+1689759745 e:\courses\professional embedded systems\projects\payment\card\card.h
+	"../Utilities/std_types.h"
+
+1689759495 e:\courses\professional embedded systems\projects\payment\utilities\std_types.h
+
+1689759585 source:e:\courses\professional embedded systems\projects\payment\application\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"app.h"
+
+1689759797 source:e:\courses\professional embedded systems\projects\payment\card\card.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"card.h"
+
+1689759797 source:e:\courses\professional embedded systems\projects\payment\terminal\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"terminal.h"
+
+1689759825 source:e:\courses\professional embedded systems\projects\payment\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"server.h"
+
+1689880532 source:e:\fwd-embedded system\professional embedded systems\projects\payment\application\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Utilities/std_types.h"
+	"../Utilities/SYS_config.h"
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+	"../Server/server.h"
+	"app.h"
+
+1689880719 e:\fwd-embedded system\professional embedded systems\projects\payment\utilities\std_types.h
+
+1689880587 e:\fwd-embedded system\professional embedded systems\projects\payment\card\card.h
+
+1689880658 e:\fwd-embedded system\professional embedded systems\projects\payment\terminal\terminal.h
+
+1689880820 e:\fwd-embedded system\professional embedded systems\projects\payment\server\server.h
+
+1689880549 e:\fwd-embedded system\professional embedded systems\projects\payment\application\app.h
+
+1689880677 source:e:\fwd-embedded system\professional embedded systems\projects\payment\main.c
+	<stdio.h>
+	"Utilities/std_types.h"
+	"Utilities/SYS_config.h"
+	"Card/card.h"
+	"Terminal/terminal.h"
+	"Server/server.h"
+	"Application/app.h"
+
+1689880604 source:e:\fwd-embedded system\professional embedded systems\projects\payment\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Utilities/std_types.h"
+	"../Utilities/SYS_config.h"
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+	"server.h"
+
+1689882070 source:e:\fwd-embedded system\professional embedded systems\projects\payment\card\card.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"../Utilities/std_types.h"
+	"../Utilities/SYS_config.h"
+	"card.h"
+
+1689880637 source:e:\fwd-embedded system\professional embedded systems\projects\payment\terminal\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"../Utilities/std_types.h"
+	"../Utilities/SYS_config.h"
+	"../Card/card.h"
+	"terminal.h"
+
+1689880731 e:\fwd-embedded system\professional embedded systems\projects\payment\utilities\sys_config.h
+
+1689876932 source:d:\fwd-embedded system\professional embedded systems\fwd-projects\payment-application\application\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Utilities/std_types.h"
+	"../Utilities/SYS_config.h"
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+	"../Server/server.h"
+	"app.h"
+
+1691928855 d:\fwd-embedded system\professional embedded systems\fwd-projects\payment-application\utilities\std_types.h
+
+1701299088 d:\fwd-embedded system\professional embedded systems\fwd-projects\payment-application\utilities\sys_config.h
+
+1689876987 d:\fwd-embedded system\professional embedded systems\fwd-projects\payment-application\card\card.h
+
+1689877058 d:\fwd-embedded system\professional embedded systems\fwd-projects\payment-application\terminal\terminal.h
+
+1689877220 d:\fwd-embedded system\professional embedded systems\fwd-projects\payment-application\server\server.h
+
+1689876949 d:\fwd-embedded system\professional embedded systems\fwd-projects\payment-application\application\app.h
+
+1689877077 source:d:\fwd-embedded system\professional embedded systems\fwd-projects\payment-application\main.c
+	<stdio.h>
+	"Utilities/std_types.h"
+	"Utilities/SYS_config.h"
+	"Card/card.h"
+	"Terminal/terminal.h"
+	"Server/server.h"
+	"Application/app.h"
+
+1696961061 source:d:\fwd-embedded system\professional embedded systems\fwd-projects\payment-application\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Utilities/std_types.h"
+	"../Utilities/SYS_config.h"
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+	"server.h"
+
+1689877037 source:d:\fwd-embedded system\professional embedded systems\fwd-projects\payment-application\terminal\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"../Utilities/std_types.h"
+	"../Utilities/SYS_config.h"
+	"../Card/card.h"
+	"terminal.h"
+
+1696959941 source:d:\fwd-embedded system\professional embedded systems\fwd-projects\payment-application\card\card.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Utilities/std_types.h"
+	"../Utilities/SYS_config.h"
+	"card.h"
+
